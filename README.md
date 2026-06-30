@@ -1,8 +1,8 @@
-# Hi, I'm Mtimkulu Sechaba 👋
+# Hi, This is Mtimkulu Sechaba 👋
 
 ## About Me
 
-I'm a self-taught Python developer from Bloemfontein, South Africa. I'm building practical software projects to strengthen my software engineering skills and prepare for a junior developer role.
+I'm a self-taught Python developer from Bloemfontein, South Africa. I'm building practical software projects to strengthen my software engineering skills while building an automation agency called Version Automation.
 
 I'm currently focused on:
 - Python
