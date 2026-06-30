@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Mtimkulu Sechaba 👋
 
-<!--
-**versionautomation/versionautomation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a self-taught Python developer from Bloemfontein, South Africa. I'm building practical software projects to strengthen my software engineering skills and prepare for a junior developer role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on:
+- Python
+- SQLite, MySQL & PostgreSQL
+- Object-Oriented Programming
+- API Integration
+- Software Architecture
+- Automation Systems
+
+---
+
+## Technologies
+
+**Languages**
+- Python
+- SQL
+
+**Databases**
+- SQLite
+- MySQL
+- PostgreSQL
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## Featured Projects
+
+### Task Management System
+A command-line application for managing tasks using Python and SQLite.
+
+**Features**
+- Create, view, update and delete tasks
+- Search by title, project and status
+- Task statistics
+- Overdue task detection
+
+**Technologies**
+- Python
+- SQLite3
+- SQL
+- Object-Oriented Programming
+
+---
+
+## Current Goal
+
+I'm building a portfolio of software projects that demonstrate real development skills, including database design, APIs, authentication, automation, and scalable application architecture.
+
+---
+
+## Contact
+
+📧 Email: sechabapiet7@gmail.com (Contact - 072 481 4267)
+
+💻 GitHub: https://github.com/versionautomation
