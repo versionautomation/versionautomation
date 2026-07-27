@@ -5,11 +5,9 @@
 I'm a self-taught Python developer from Bloemfontein, South Africa. I'm building practical software projects to strengthen my software engineering skills while building an automation agency called Version Automation.
 
 I'm currently focused on:
-- Python
-- SQLite, MySQL & PostgreSQL
-- Object-Oriented Programming
-- API Integration
-- Software Architecture
+- Backend Development
+- Database Design (SQLite & MySQL) 
+- API Integration (REST APIs)
 - Automation Systems
 
 ---
@@ -22,8 +20,7 @@ I'm currently focused on:
 
 **Databases**
 - SQLite
-- MySQL
-- PostgreSQL
+- MySQL (soon)
 
 **Tools**
 - Git
